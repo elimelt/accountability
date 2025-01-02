@@ -1,5 +1,5 @@
 {
-  "name": "spa-template.elimelt.com",
+  "name": "accountability.elimelt.com",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,6 +15,8 @@
     "@codemirror/lang-javascript": "^6.2.2",
     "@uiw/codemirror-theme-vscode": "^4.23.7",
     "@uiw/react-codemirror": "^4.23.7",
+    "date-fns": "^4.1.0",
+    "lucide-react": "^0.469.0",
     "prismjs": "^1.29.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",

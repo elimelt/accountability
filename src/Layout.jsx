@@ -5,9 +5,9 @@ export default function Layout({ children }) {
     <div className="layout">
       <nav className="nav">
         <div className="nav-content">
-          <a href="https://elimelt.com" className="nav-logo">template</a>
+          <a href="https://accountability.elimelt.com" className="nav-logo">accountability</a>
           <div className="nav-links">
-            <a href="/" className="nav-link">/home</a>
+            <a href="https://elimelt.com" className="nav-link">..</a>
           </div>
         </div>
       </nav>
